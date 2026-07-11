@@ -1,6 +1,6 @@
 # Bank-Analysis-Dashboard
 <p align="center">
-  <img src="./overview.png" alt="Preview Image" width="600"/>
+  <img src="./overview.jpeg" alt="Preview Image" width="600"/>
 </p>
 
 A finance dashboard made for a competiton of 365Bootcamp by power Bi. It includes basic analysis on 4 diefferent datasets and running some of DAX quries to get the valuable insights which help in different analysis. <br>
